@@ -1,0 +1,12 @@
+{
+    "ID": "2f4e384e-76ce-4203-aea2-b16f5e5c328f",
+    "ActionKeyword": "cu",
+    "Name": "Cubase Project Launcher",
+    "Description": "showing recent projects",
+    "Author": "aaloco",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
+    "IcoPath": "Images\\cubase.ico",
+    "ExecuteFileName": "main.py"
+}
