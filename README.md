@@ -1,3 +1,4 @@
-This is an example Python plugin project which demonstrates the interaction of request from Flow and then call back to the plugin.
+This Flowlauncher Plugin scans predefined locations for cubase projects and lets you launch your latest Projects.
 
-You can install this plugin via `pm install Hello World Python`
+Configure Filepaths and options in the configure section of main.py to make this work.
+
